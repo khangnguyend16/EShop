@@ -1,1 +1,3 @@
-# EShop
+# EShop SSR Application
+
+Tech: Nodejs, Handlebar, Postgre SQL, Sequelize...
